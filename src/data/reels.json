@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "title": "Bridal Hair Transformation",
+    "thumbnail": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=400&h=700&fit=crop"
+  },
+  {
+    "id": 2,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/jNQXAC9IVRw",
+    "title": "Color Correction Magic",
+    "thumbnail": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400&h=700&fit=crop"
+  },
+  {
+    "id": 3,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/9bZkp7q19f0",
+    "title": "Quick Updo Tutorial",
+    "thumbnail": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=400&h=700&fit=crop"
+  },
+  {
+    "id": 4,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/kJQP7kiw5Fk",
+    "title": "Balayage Highlights",
+    "thumbnail": "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=400&h=700&fit=crop"
+  },
+  {
+    "id": 5,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/ZZ5LpwO-An4",
+    "title": "Keratin Treatment Process",
+    "thumbnail": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=400&h=700&fit=crop"
+  },
+  {
+    "id": 6,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/JGwWNGJdvx8",
+    "title": "Makeup Masterclass",
+    "thumbnail": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=400&h=700&fit=crop"
+  }
+]
